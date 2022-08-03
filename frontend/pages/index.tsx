@@ -2,7 +2,7 @@ import type { NextPage } from "next";
 import Head from "next/head";
 import Image from "next/image";
 import Model from "../components/model";
-import styles from "/Users/rehanganapathy/Desktop/ai-driven-app/frontend/ai-site/styles/Home.module.css";
+import styles from "../styles/Home.module.css";
 
 const Home: NextPage = () => {
   return (
